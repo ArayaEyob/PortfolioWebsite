@@ -1,4 +1,1 @@
-# Araya Lemma Portfolio
-
-https://arayaeyob.github.io/cap/
-
+My portfolio website made with Javascript with Responsive 
